@@ -1,6 +1,4 @@
-import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_cache_manager/flutter_cache_manager.dart';
 import 'package:just_audio/just_audio.dart';
 import 'package:task/models/audio.dart';
 import 'package:task/repositories/audio_repo.dart';
